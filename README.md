@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiagovmvieira
-- 👀 I’m interested in AI & Data Software Engineering
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 👀 I’m interested in AI & Software Engineering
+- 🌱 I’m currently learning Design Patterns
 - 💞️ I’m looking to collaborate on a big team
 - 📫 How to reach me tiagovmvieira@hotmail.com
 
